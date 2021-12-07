@@ -1,2 +1,2 @@
 # react-gallery-boilerplate
-Created with CodeSandbox
+just a react based landing page with gallery.
